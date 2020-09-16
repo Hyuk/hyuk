@@ -1,7 +1,8 @@
 # Hi, I'm Hyukho 👋 Full Stack Developer :thumbsup:
 
 ## Work :briefcase: 
-I’m currently working on Anritsu Corporation
+* I’m currently working on Anritsu Corporation.
+* Previously worked on Datawords.
 
 ## Interest :mag_right:
 * Front End Developent :art: HTML5, CSS3, JavaScript, jQuery, React
