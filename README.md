@@ -10,7 +10,7 @@ I’m currently working on Anritsu Corporation
 * Machine Learning :oncoming_automobile: Python, R
 
 ## Repositories
-[![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-brightgreen)](https://github.com/Hyuk/html-css) / [JavaScript](https://github.com/Hyuk/javascript) / [Python](https://github.com/Hyuk/python) / [R](https://github.com/Hyuk/r)
+[![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-brightgreen)](https://github.com/Hyuk/html-css) / [![JavaScript](https://img.shields.io/badge/JavaScript-yellow)](https://github.com/Hyuk/javascript) / [![Python](https://img.shields.io/badge/Python-yellowgreen)](https://github.com/Hyuk/python) / [![R](https://img.shields.io/badge/R-orange)](https://github.com/Hyuk/r)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.smilehugo.com)](https://www.smilehugo.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smilehugo/)](https://www.linkedin.com/in/smilehugo/) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCcPuem4gq5sNiZGLjeSys0w)](https://www.youtube.com/channel/UCcPuem4gq5sNiZGLjeSys0w) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/smilehugo)](https://www.facebook.com/smilehugo) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyukho83@gmail.com)](mailto:hyukho83@gmail.com) ![Twitter Follow](https://img.shields.io/twitter/follow/smilehugo?label=Follow&style=social)
 
