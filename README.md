@@ -9,6 +9,11 @@ I’m currently working on Anritsu Corporation
 * Mobile Development :iphone: Dart, Flutter, React Native
 * Machine Learning :oncoming_automobile: Python, R
 
+## Repositories
+* [HTML & CSS](https://github.com/Hyuk/html-css)
+* [JavaScript](https://github.com/Hyuk/javascript)
+* [Python](https://github.com/Hyuk/python)
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.smilehugo.com)](https://www.smilehugo.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smilehugo/)](https://www.linkedin.com/in/smilehugo/) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCcPuem4gq5sNiZGLjeSys0w)](https://www.youtube.com/channel/UCcPuem4gq5sNiZGLjeSys0w) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/smilehugo)](https://www.facebook.com/smilehugo) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyukho83@gmail.com)](mailto:hyukho83@gmail.com) ![Twitter Follow](https://img.shields.io/twitter/follow/smilehugo?label=Follow&style=social)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyuk%2Fhit-counter&count_bg=%233A4BC7&title_bg=%23333333&icon=node-dot-js.svg&icon_color=%23FFFF00&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
