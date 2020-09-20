@@ -1,8 +1,8 @@
 # Hi, I'm Hyukho 👋 Full Stack Developer :thumbsup:
 
 ## Work :briefcase: 
-* I’m currently working on Anritsu Corporation as Content Editor. 2016 - Current
-* Previously worked on Datawords as Web Master. 2012-2015
+* I’m currently working on Anritsu Corporation as Content Editor & Frontend Developer. 2016 - Current
+* Previously worked on Datawords as Senior Web Project Manager. 2012-2015
 * Previously worked on AD Group Communique as Web Developer. 2011
 
 ## Interest :mag_right:
