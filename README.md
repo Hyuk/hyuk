@@ -6,10 +6,10 @@
 * Previously worked on AD Group Communique as Web Developer. 2011
 
 ## Interest :mag_right:
-* Front End Developent  :art:  HTML5, CSS3, JavaScript, jQuery, React
-* Back End Development  :floppy_disk:  Node.js, PHP, MySQL
-* Mobile Development  :iphone:  Dart, Flutter, React Native
-* Machine Learning  :oncoming_automobile:  Python, R
+* Front End Developent &nbsp; :art: &nbsp; HTML5, CSS3, JavaScript, jQuery, React
+* Back End Development &nbsp; :floppy_disk: &nbsp; Node.js, PHP, MySQL
+* Mobile Development &nbsp; :iphone: &nbsp; Dart, Flutter, React Native
+* Machine Learning &nbsp; :oncoming_automobile: &nbsp; Python, R
 
 ## Repositories :notebook:
 [![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-brightgreen)](https://github.com/Hyuk/html-css) [![JavaScript](https://img.shields.io/badge/JavaScript-yellow)](https://github.com/Hyuk/javascript) [![Python](https://img.shields.io/badge/Python-yellowgreen)](https://github.com/Hyuk/python) [![R](https://img.shields.io/badge/R-orange)](https://github.com/Hyuk/r) [![Useful Links](https://img.shields.io/badge/Useful%20Links-blueviolet)](https://github.com/Hyuk/useful-links)
