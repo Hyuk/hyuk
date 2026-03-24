@@ -1,10 +1,10 @@
 # Hi, I'm Hyukho 👋 Full Stack Developer :thumbsup:
 
 ## Work :briefcase: 
-* Currently working on EKONOLOGY as Senior Developer 2025 ~ Now
-* Previously worked on Anritsu Corporation as Content Editor. 2016 ~ 2024
-* Previously worked on Datawords as Senior Web Project Manager. 2012 ~ 2015
-* Previously worked on AD Group Communique as Web Developer. 2011
+* Currently working as Senior Developer at EKONOLOGY 2025.05 ~ Now
+* Previously worked as Frontend Developer at Anritsu Corporation. 2016.07 ~ 2024.09
+* Previously worked as Senior Web Project Manager at Datawords. 2012.08 ~ 2015.11
+* Previously worked as Web Developer at AD Group Communique. 2011.07 ~ 2011.11
 
 ## Interest :mag_right:
 * Front End Developent &nbsp; :art: &nbsp; HTML5, CSS3, JavaScript, jQuery, React, Next.js
